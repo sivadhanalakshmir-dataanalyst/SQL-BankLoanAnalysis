@@ -1,4 +1,4 @@
-                                                      Bank Loan Analytics using SQL
+                                                  Bank Loan Analytics using SQL
 
 This project analyzes bank loan data to derive actionable insights using SQL queries. Below are the key performance indicators (KPIs) explored:
 
